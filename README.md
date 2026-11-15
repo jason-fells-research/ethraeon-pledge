@@ -4,7 +4,7 @@ Pledge to governed AI. A short commitment to build responsibly: auditable by def
 
 ## Contents
 
-The pledge line in this README. The full pledge text and its page are in the private copy `ethraeon-systems-a-pledge-to-governed-ai-oct-3-2025`.
+The pledge line in this README. The full pledge text and its page are held privately.
 
 ## Where it lives
 
